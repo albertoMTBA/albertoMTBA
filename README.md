@@ -1,4 +1,4 @@
-## Alberto Martinez Barbosa :smiley: ![](Figuras/logotipo_fondo_blanco.png)
+## Alberto Martinez Barbosa :smiley: !(Figuras/logotipo_fondo_blanco.png)
 ### alberto.mtba@gmail.com
 
 Figuras/banner_perfil.png
