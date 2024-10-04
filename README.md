@@ -9,15 +9,15 @@ Las líneas de investigación en las que se ha visto involucrado han sido el dis
 
 Los trabajos de investigación realizados le han desarrollado habilidades como programar en lenguaje C, C++, Java y Python; diseñar de aplicaciones móviles en Android; programar microcontroladores de Atmel, Microchip y Texas Instruments, utilizando lenguaje C o ensamblador enfocados a aplicaciones IoT y Sistemas Embebidos; describir el hardware de FPGAs, utilizando lenguajes de descripción como VHDL y Verilog; diseñar las etapas de potencia de los sistemas electrónicos; modelar matemáticamente en variables de espacio de estado y con el enfoque Euler-Lagrange; utilizar teorías de control como el Control Clásico, el enfoque ADRC, Modos Deslizantes y Planitud Diferencial; aplicar técnicas de seguimiento del MPP; utilizar enfoques de la IA como PSO; simular en ambiente especializados como Matlab/Simulink e implementar físicamente los sistemas electrónicos.
 
-Los trabajos en los que ha participado son los siguientes:}
-![](https://doi.org/10.3390/pr11051547)
-https://doi.org/10.1016/j.prime.2022.100050 
-https://doi.org/10.3390/en15186595 
- https://doi.org/10.1049/iet-pel.2019.0832
-https://doi.org/10.1002/2050-7038.12398 
-https://doi.org/10.4995/riai.2018.8925  
-https://doi.org/10.1109/tla.2017.7910194   
-https://doi.org/10.1109/tla.2016.7437198 
+Los trabajos en los que ha participado son los siguientes:
+* https://doi.org/10.3390/pr11051547
+* https://doi.org/10.1016/j.prime.2022.100050 
+* https://doi.org/10.3390/en15186595 
+* https://doi.org/10.1049/iet-pel.2019.0832
+* https://doi.org/10.1002/2050-7038.12398 
+* https://doi.org/10.4995/riai.2018.8925  
+* https://doi.org/10.1109/tla.2017.7910194   
+* https://doi.org/10.1109/tla.2016.7437198 
 
 
 
